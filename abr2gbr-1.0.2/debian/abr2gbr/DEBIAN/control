@@ -1,0 +1,10 @@
+Package: abr2gbr
+Version: 3.0.8
+Architecture: i386
+Maintainer: Alice Ferrazzi <aliceinwire@gnumerica.org>
+Installed-Size: 44
+Section: x11
+Priority: extra
+Homepage: http://www.sunnyspot.org/gimp/tools.html
+Description: Converts PhotoShop brushes to GIMP
+ Converts PhotoShop ABR and Paint Shop Pro JBR brushes to GIMP GBR. 

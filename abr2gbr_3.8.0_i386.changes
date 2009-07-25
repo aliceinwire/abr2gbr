@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Sat, 25 Jul 2009 19:43:53 +0200
+Source: abr2gbr
+Binary: abr2gbr
+Architecture: source i386
+Version: 3.8.0
+Distribution: unstable
+Urgency: low
+Maintainer: Alice Ferrazzi <aliceinwire@gnumerica.org>
+Changed-By: aliceinwire <aliceinwire@gnumerica.org>
+Description: 
+ abr2gbr    - Converts PhotoShop and Paint Shop Pro brushes to GIMP
+Changes: 
+ abr2gbr (3.8.0) unstable; urgency=low
+ .
+   * my first package
+   * Find nothing in the Makefile to fix $DESTDIR problems.
+Checksums-Sha1: 
+ 21a7064d4cfe70b3dd8208f0b77e794515bfa98a 520 abr2gbr_3.8.0.dsc
+ af404e31f452948d7b1880da2932e758e1b77919 5180 abr2gbr_3.8.0.tar.gz
+ ffdf1b0f30a49da2c02c89d1086626c567b80430 2178 abr2gbr_3.8.0_i386.deb
+Checksums-Sha256: 
+ eaa684a523525f2a54ebc5249e8860f7493bd0ed350d2f90185770ed1452694f 520 abr2gbr_3.8.0.dsc
+ 7deee7c64b9efeecdb03d4ba67abdcff1879b4c34040d01dd43f619733cdc700 5180 abr2gbr_3.8.0.tar.gz
+ 8bf0c2334bae0536f7003ffb44e1657675fe417b6a43dbc2376bbe82196468d5 2178 abr2gbr_3.8.0_i386.deb
+Files: 
+ 7d7e49d02c3a7deabb753c6dc1e74b2c 520 x11 extra abr2gbr_3.8.0.dsc
+ 433f6800e58259367764ece37f95da9e 5180 x11 extra abr2gbr_3.8.0.tar.gz
+ 84581a9afa76c748558ba071980fc951 2178 x11 extra abr2gbr_3.8.0_i386.deb

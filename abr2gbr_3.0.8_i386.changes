@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Sat, 25 Jul 2009 19:43:53 +0200
+Source: abr2gbr
+Binary: abr2gbr
+Architecture: source i386
+Version: 3.0.8
+Distribution: unstable
+Urgency: low
+Maintainer: Alice Ferrazzi <aliceinwire@gnumerica.org>
+Changed-By: Alice Ferrazzi <aliceinwire@gnumerica.org>
+Description: 
+ abr2gbr    - Converts PhotoShop brushes to GIMP
+Changes: 
+ abr2gbr (3.0.8) unstable; urgency=low
+ .
+   * Initial release
+   * my first package
+   * Find nothing in the Makefile to fix $DESTDIR problems.
+Checksums-Sha1: 
+ 4e352faa18d42853bfad0247bfb627f8a89340bc 520 abr2gbr_3.0.8.dsc
+ d824f979a27020a8347e4316a354f33090f271c0 5037 abr2gbr_3.0.8.tar.gz
+ a884fa54036bfc6e7e13d170b4156460000a47dd 2054 abr2gbr_3.0.8_i386.deb
+Checksums-Sha256: 
+ 334c1422b909ca3b6ecbc2ec76c55fa47364efaffe629855bdf7c4292202b881 520 abr2gbr_3.0.8.dsc
+ 55bb4c15960b99b289b6ac624ea9ee181dfd5b6be093cd87b3a30024a2bf3642 5037 abr2gbr_3.0.8.tar.gz
+ 59f93d5d49c2017787a21be51344c8f87d013d87fc4dae66bfb191cc5f629127 2054 abr2gbr_3.0.8_i386.deb
+Files: 
+ e4c163b5230b54446bed20acf45bf753 520 x11 extra abr2gbr_3.0.8.dsc
+ 117365852a707ed0c32e8b719d0f5c28 5037 x11 extra abr2gbr_3.0.8.tar.gz
+ 0341d52d52a3d26ca9ab0c71d43c6166 2054 x11 extra abr2gbr_3.0.8_i386.deb

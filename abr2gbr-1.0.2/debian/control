@@ -1,0 +1,13 @@
+Source: abr2gbr
+Section: x11
+Priority: extra
+Maintainer: Alice Ferrazzi <aliceinwire@gnumerica.org>
+Build-Depends: debhelper (>= 7), libglib2.0-dev
+Standards-Version: 3.0.8
+Homepage: http://www.sunnyspot.org/gimp/tools.html
+
+Package: abr2gbr
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Converts PhotoShop brushes to GIMP 
+ Converts PhotoShop ABR and Paint Shop Pro JBR brushes to GIMP GBR. 
