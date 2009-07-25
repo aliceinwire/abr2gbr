@@ -1,3 +1,5 @@
 055a1c9ab6f2645f030ac20bc75f4a8a  usr/share/doc/abr2gbr/TODO
-f0e0794f4f521b8a3af0a5033f71fe55  usr/share/doc/abr2gbr/copyright
+baa1bb1a438ca7c0d91de64affbcc27f  usr/share/doc/abr2gbr/copyright
 28f8de99b1288e665606f5cd367dc895  usr/share/doc/abr2gbr/changelog.Debian.gz
+4aa9b0176967f0d3671904a2ed54ce71  usr/bin/abr2gbr
+4aa9b0176967f0d3671904a2ed54ce71  usr/sbin/abr2gbr

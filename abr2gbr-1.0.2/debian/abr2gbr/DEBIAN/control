@@ -2,7 +2,8 @@ Package: abr2gbr
 Version: 1.0.2-1
 Architecture: i386
 Maintainer: Alice Ferrazzi <aliceinwire@gnumerica.org>
-Installed-Size: 44
+Installed-Size: 60
+Depends: libc6 (>= 2.7-1), libglib1.2ldbl (>= 1.2.10-18)
 Section: x11
 Priority: extra
 Homepage: http://www.sunnyspot.org/gimp/tools.html

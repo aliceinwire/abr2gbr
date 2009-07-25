@@ -1,0 +1,1 @@
+shlibs:Depends=libc6 (>= 2.7-1), libglib1.2ldbl (>= 1.2.10-18)

@@ -2,7 +2,7 @@
 # -*- makefile -*-
 # Sample debian/rules that uses debhelper.
 # This file was originally written by Joey Hess and Craig Small.
-# As a special exception, when this file is copied by dh-make into a
+# As a special exception, when this file is copied by  into a
 # dh-make output file, you may use that output file without restriction.
 # This special exception was added by Craig Small in version 0.37 of dh-make.
 
@@ -50,6 +50,9 @@ install: build
 
 	# Add here commands to install the package into debian/abr2gbr.
 	$(MAKE) DESTDIR=$(CURDIR)/debian/abr2gbr install
+	cp  $(CURDIR)/.obj/abr2gbr $(CURDIR)/debian/abr2gbr/usr/bin/
+	cp  $(CURDIR)/.obj/abr2gbr $(CURDIR)/debian/abr2gbr/usr/sbin/
+
 
 
 # Build architecture-independent files here.
