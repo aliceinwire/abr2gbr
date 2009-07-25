@@ -3,7 +3,7 @@ Section: x11
 Priority: extra
 Maintainer: Alice Ferrazzi <aliceinwire@gnumerica.org>
 Build-Depends: debhelper (>= 7), libglib2.0-dev
-Standards-Version: 3.0.8
+Standards-Version: 3.8.0
 Homepage: http://www.sunnyspot.org/gimp/tools.html
 
 Package: abr2gbr

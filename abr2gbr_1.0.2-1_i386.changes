@@ -17,17 +17,17 @@ Changes:
    * my first package
    * Find nothing in the Makefile to fix $DESTDIR problems.
 Checksums-Sha1: 
- 2bc1d4412c7e188cb2c61223121c7483928abbe3 766 abr2gbr_1.0.2-1.dsc
+ 7df33b16b3ee8a5656af3301566fa000bf35a2d4 766 abr2gbr_1.0.2-1.dsc
  6a6a12dd7f156b9a29fec22920d4b6a26f596036 3525 abr2gbr_1.0.2.orig.tar.gz
- ec295a248c0d58036312cfbef532d28c87f13770 1883 abr2gbr_1.0.2-1.diff.gz
- 94cc0b3aeda7c8da66578a460edc812a029d874c 2066 abr2gbr_1.0.2-1_i386.deb
+ 626adc480064a86004de2a8b6ce1fe5a2a6cb721 1883 abr2gbr_1.0.2-1.diff.gz
+ 2def17c0ecc4754af270dd291d758b241cc7b44b 2072 abr2gbr_1.0.2-1_i386.deb
 Checksums-Sha256: 
- a2593ddc9be41d37c9cad5fde024157e5a9c1f1174b7afa10a2714a40b742251 766 abr2gbr_1.0.2-1.dsc
+ 53ef33d0e48b2ffb07f8f61ac07540fd0c99517600956ab693722adc19b417b9 766 abr2gbr_1.0.2-1.dsc
  cbfeb8726b08490146bc982a87aa228de271e8fdfa4a013f3705ce3135dafd68 3525 abr2gbr_1.0.2.orig.tar.gz
- 1654326a7aace90eb2020226f578d4c256d92ac3bb4fbf60b7139c75e7c3f3bf 1883 abr2gbr_1.0.2-1.diff.gz
- 580c58beadd1e0d1dcec973bcb33dfcf38929b2ca699185858a9f23fb7e9f8c8 2066 abr2gbr_1.0.2-1_i386.deb
+ 4af3d55bd0c88d1156886347e63f17bdcf1f97eaff4433fe2d637d3dd35bb26c 1883 abr2gbr_1.0.2-1.diff.gz
+ b39731a9913cd83b2dfda137f6efa027bcd47a0bad9bd5a9d2629b7b621b7a01 2072 abr2gbr_1.0.2-1_i386.deb
 Files: 
- cd62fd2d83cae4f14e01bc06c8eb9074 766 x11 extra abr2gbr_1.0.2-1.dsc
+ b5d3004150546de12609b1bf1ebcb114 766 x11 extra abr2gbr_1.0.2-1.dsc
  edecc74a3df1ce858ec641de9a098cdf 3525 x11 extra abr2gbr_1.0.2.orig.tar.gz
- 39d48e017a62ff2712840449083e9cc5 1883 x11 extra abr2gbr_1.0.2-1.diff.gz
- 4a1be9f91bfad738643181a55540bce3 2066 x11 extra abr2gbr_1.0.2-1_i386.deb
+ 6314e7103f1de609b94456567de7c6a3 1883 x11 extra abr2gbr_1.0.2-1.diff.gz
+ b5641cb5b4507b86d01449ff41c2bf4b 2072 x11 extra abr2gbr_1.0.2-1_i386.deb
