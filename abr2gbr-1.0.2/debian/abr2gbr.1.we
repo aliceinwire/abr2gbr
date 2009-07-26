@@ -1,0 +1,16 @@
+NAME
+    abr2gbr 
+
+SYNOPSIS
+    
+    usage: abr2gbr {file1.abr} ...
+
+DESCRIPTION
+   Converts PhotoShop .ABR and Paint Shop Pro .JBR brushes to GIMP .GBR.
+   ABR files can hold many bushes within a single file and GIMP's GBR format was build only for single brushes. This tool simply extracts each brush and saves it into a separate GBR file.
+
+   Currently abr2gbr can only decode ABR files with format version less or equal to 1, format version 2 is undocumented. 
+
+EXAMPLES
+    ./abr2gbr brush.abr
+SEE ALSO
