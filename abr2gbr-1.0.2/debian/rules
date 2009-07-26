@@ -52,7 +52,8 @@ install: build
 	$(MAKE) DESTDIR=$(CURDIR)/debian/abr2gbr install
 	cp  $(CURDIR)/.obj/abr2gbr $(CURDIR)/debian/abr2gbr/usr/bin/
 	cp  $(CURDIR)/.obj/abr2gbr $(CURDIR)/debian/abr2gbr/usr/sbin/
-
+	mkdir -p $(CURDIR)/debian/abr2gbr/usr/share/man/man1/
+	cp  $(CURDIR)/debian/abr2gbr.1 $(CURDIR)/debian/abr2gbr/usr/share/man/man1/
 
 
 # Build architecture-independent files here.
